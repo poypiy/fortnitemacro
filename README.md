@@ -5,3 +5,4 @@ AHK Fortnite macro designed to limit strain on hands
 *selects edits as long as held
 
 setup tutorial: https://youtu.be/dCgn_7UZ334
+
